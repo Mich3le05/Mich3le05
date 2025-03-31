@@ -3,7 +3,7 @@
 😄 About Me:
 
 🌱 I'm an Epicode student | Full-Stack Developer | Java, Spring & React
-
+✉ michele.mandanici05@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michele_mandanici) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-mandanici/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michele.mandanici05@gmail.com) 
