@@ -1,7 +1,6 @@
-Hello World!, I'm Michele👋🏼:
-<hr>
+# Hello World!, I'm Michele👋🏼:
 
-# 😄 About Me:
+😄 About Me:
 
 🌱 I am an Epicode student | Full-Stack Developer | Java, Spring & React
 
