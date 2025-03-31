@@ -1,4 +1,4 @@
-# Hello World!, I'm Michele👋🏼:
+# Hello World! I'm Michele👋🏼:
 
 😄 About Me:
 
