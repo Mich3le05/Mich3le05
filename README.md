@@ -3,6 +3,7 @@
 😄 About Me:
 
 🌱 I'm an Epicode student | Full-Stack Developer | Java, Spring & React
+
 ✉ michele.mandanici05@gmail.com
 
 ## 🌐 Socials:
