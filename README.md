@@ -2,7 +2,7 @@
 
 😄 About Me:
 
-🌱 I am an Epicode student | Full-Stack Developer | Java, Spring & React
+🌱 I'm an Epicode student | Full-Stack Developer | Java, Spring & React
 
 
 ## 🌐 Socials:
