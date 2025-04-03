@@ -2,7 +2,7 @@
 
 😄 About Me:
 
-🌱 I'm an Epicode student | Full-Stack Developer | Java, Spring & React
+🌱 I'm a Junior Full-Stack Developer | Java, Spring & React | Open to Work
 
 ✉ michele.mandanici05@gmail.com
 
