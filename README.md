@@ -5,6 +5,7 @@
 🌱 I'm a Junior Full-Stack Developer | Java, Spring & React | Open to Work
 
 ✉ michele.mandanici05@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-mandanici/)
 
 ## 🌐 Socials:
