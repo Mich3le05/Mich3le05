@@ -2,7 +2,7 @@
 
 😄 About Me:
 
-🌱 I'm a Junior Full-Stack Developer | Java, Spring & React | Open to Work
+🌱 I'm a Junior Full-Stack Developer | Java, Spring & JS, React | Open to Work
 
 ✉ michele.mandanici05@gmail.com
 
