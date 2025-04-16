@@ -1,6 +1,7 @@
 # 👋 Hello World! I'm Michele
 
 😄 **About Me**  
+
 🌱 I' m a full-stack junior developer | Java | Spring | JavaScript | React | currently looking for work and eager to grow into a team!
 
 ✉ michele.mandanici05@gmail.com  
@@ -41,6 +42,10 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React-Bootstrap](https://img.shields.io/badge/react--bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-%23000?style=for-the-badge&logo=html5&logoColor=white)
+![Hooks](https://img.shields.io/badge/Hooks-%23FF6347.svg?style=for-the-badge&logo=react&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-%232C9C6A.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Strumenti & Dev Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
